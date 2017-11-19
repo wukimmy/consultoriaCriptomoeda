@@ -143,8 +143,8 @@ footer.site-footer { background-image: url( http://ld-wp.template-help.com/wordp
 		<div class="header-container__flex">
 			<div class="site-branding">
 				<div class="site-logo site-logo--image">
-					<a class="site-logo__link" href="http://ld-wp.template-help.com/wordpress_64076/" rel="home">
-					<img src="./index_files/logo.png" alt="Acumenship" class="site-link__img">
+					<a class="site-logo__link" href="" rel="home">
+					<img src="./index_files/logo.png" alt="Acumenship" class="site-link__img" height="10px", width="50px" ;>
 					</a>
 				</div>
 			</div>
@@ -333,7 +333,7 @@ footer.site-footer { background-image: url( http://ld-wp.template-help.com/wordp
 					
 					<div class="tm_pb_column tm_pb_column_1_2  tm_pb_column_7 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 tm_pb_vertical_alligment_start">
 				
-				<div class="tm_pb_text tm_pb_module tm_pb_bg_layout_light tm_pb_text_align_left  tm_pb_text_4">
+				<div class="tm_pb_text tm_pb_module tm_pb_bg_layout_light tm_pb_text_align_left  tm_pb_text_4" background-clor: "black">
 				
 <h2>Best Financial Experts</h2>
 <p>With over 100 financial consultants working at our office in Atlanta, we can always be sure that however complex or big our new task is – we will be able to crack it! 
@@ -368,7 +368,7 @@ footer.site-footer { background-image: url( http://ld-wp.template-help.com/wordp
 <h2>Best Financial Experts</h2>
 <p>With over 100 financial consultants working at our office in Atlanta, we can always be sure that however complex or big our new task is – we will be able to crack it! 
 			</p></div> <!-- .tm_pb_text --><hr class="tm_pb_module tm_pb_space tm_pb_divider_5"><div class="tm_pb_button_module_wrapper tm_pb_module">
-				<a class="tm_pb_button tm_pb_custom_button_icon  tm_pb_button_4 tm_pb_module tm_pb_bg_layout_light tm_pb_icon_right" href="http://ld-wp.template-help.com/wordpress_64076/#" data-icon="">About</a>
+				<a class="tm_pb_button tm_pb_custom_button_icon  tm_pb_button_4 tm_pb_module tm_pb_bg_layout_light tm_pb_icon_right" href="" data-icon="">About</a>
 			</div>
 			</div> <!-- .tm_pb_column -->
 						
@@ -376,16 +376,10 @@ footer.site-footer { background-image: url( http://ld-wp.template-help.com/wordp
 			</div>
 					
 			<div class="tm_pb_section invert tm_pb_section_8 tm_section_regular tm_section_transparent">
-				
-				
-					
-						
 						
 				<div class=" row tm_pb_row tm_pb_row_11 tm_pb_row_fullwidth">
 					
 					<div class="tm_pb_column tm_pb_column_1_2  tm_pb_column_13 tm_pb_column_empty col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 tm_pb_vertical_alligment_start">
-				
-				
 			</div> <!-- .tm_pb_column --><div class="tm_pb_column tm_pb_column_1_2  tm_pb_column_14 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 tm_pb_vertical_alligment_start">
 				
 				<div class="tm_pb_text tm_pb_module tm_pb_bg_layout_light tm_pb_text_align_left  tm_pb_text_8">
@@ -485,7 +479,7 @@ footer.site-footer { background-image: url( http://ld-wp.template-help.com/wordp
 				
 .tm_pb_builder #tm_builder_outer_content .tm_pb_divider_5 { height: 45px; }
 .tm_pb_builder #tm_builder_outer_content .tm_pb_divider_5:before { border-top-width: 45px; }
-.tm_pb_builder #tm_builder_outer_content .tm_pb_section_6 { background-image:url(http://ld-wp.template-help.com/wordpress_64076/wp-content/uploads/2016/11/img18.jpg); padding-top: 97px; padding-bottom: 120px; }
+.tm_pb_builder #tm_builder_outer_content .tm_pb_section_6 { background-image:url(http://archive.cytexone.com/wp-content/uploads/2015/09/Conected-World.png); padding-top: 97px; padding-bottom: 120px; }
 .tm_pb_builder #tm_builder_outer_content .tm_pb_column_11 { order: 1; }
 .tm_pb_builder #tm_builder_outer_content .tm_pb_column_10 { order: 1; }
 .tm_pb_builder #tm_builder_outer_content .tm_pb_divider_4:before { border-top-width: 45px; }
@@ -504,7 +498,7 @@ footer.site-footer { background-image: url( http://ld-wp.template-help.com/wordp
 .tm_pb_brands_showcase_module_0.tm_pb_bg_layout_light .tm_pb_brands_showcase_module__divider { height: 1px; }
 .tm_pb_builder #tm_builder_outer_content .tm_pb_section_7 { background-color:#ffffff; background-image:url(http://ld-wp.template-help.com/wordpress_64076/wp-content/uploads/2016/11/img19.jpg); padding-top: 96px; padding-bottom: 56px; }
 .tm_pb_builder #tm_builder_outer_content .tm_pb_column_12 { order: 1; }
-.tm_pb_builder #tm_builder_outer_content .tm_pb_column_8 { background-image:url(http://ld-wp.template-help.com/wordpress_64076/wp-content/uploads/2016/11/img8.jpg); order: 2; }
+.tm_pb_builder #tm_builder_outer_content .tm_pb_column_8 { background-image:url(./index_files/img8.jpg); order: 2; }
 .tm_pb_builder #tm_builder_outer_content .tm_pb_divider_3:before { border-top-width: 45px; }
 .tm_pb_builder #tm_builder_outer_content .tm_pb_column_3 { order: 1; }
 .tm_pb_builder #tm_builder_outer_content .tm_pb_column_4 { order: 1; }
