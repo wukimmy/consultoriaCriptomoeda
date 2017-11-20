@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <!-- saved from url=(0048)http://ld-wp.template-help.com/wordpress_64076/# -->
 <html lang="en-US"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -143,17 +144,17 @@ footer.site-footer { background-image: url( http://ld-wp.template-help.com/wordp
 		<div class="header-container__flex">
 			<div class="site-branding">
 				<div class="site-logo site-logo--image">
-					<a class="site-logo__link" href="" rel="home">
-					<img src="./index_files/logo.png" alt="Acumenship" class="site-link__img" height="10px", width="50px" ;>
+					<a class="site-logo__link" href="./index.php" rel="home">
+					<img src="./index_files/logo1.png" alt="Acumenship" class="site-link__img" height="10px", width="50px" ;>
 					</a>
 				</div>
 			</div>
 			<nav id="site-navigation" class="main-navigation" role="navigation"><ul id="main-menu" class="menu">
 				<li id="menu-item-240" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-240">
-					<a href="">Sobre a empresa</a>
+					<a href="./index.php">Sobre a empresa</a>
 				</li>
 				<li id="menu-item-239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239">
-					<a href="">Clientes</a>
+					<a href="./cliente">Clientes</a>
 				</li>
 				<li id="menu-item-239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239">
 					<a href="">Criptomoedas</a>
@@ -181,236 +182,90 @@ footer.site-footer { background-image: url( http://ld-wp.template-help.com/wordp
 												<div class=" row tm_pb_row tm_pb_row_0">
 													<div class="tm_pb_column tm_pb_column_4_4  tm_pb_column_0 col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 tm_pb_vertical_alligment_start">
 														<div class="tm_pb_text tm_pb_module tm_pb_bg_layout_light tm_pb_text_align_center  tm_pb_text_0">
-															<h4><span style="color: #ffffff;">Consultoria</span></h4>
-															<h1>Monere</h1>
-															<h3>Invista hoje em <strong>bitcoins </strong></h3>
+															<h1>Clientes</h1>
+															<h3>Bitcoin é utilizado ao redor do mundo! conheça aqui um pouco da experiência da moeda. </h3>
 														</div> <!-- .tm_pb_text -->
-														<div class="tm_pb_button_module_wrapper tm_pb_module tm_pb_button_alignment_center">
-															<a class="tm_pb_button tm_pb_custom_button_icon  tm_pb_button_0 tm_pb_module tm_pb_bg_layout_light tm_pb_icon_right" href="" data-icon="">Começar</a>
-														</div>
 													</div> <!-- .tm_pb_column -->
 												</div> <!-- .tm_pb_row -->
 										</div>
 									</div> <!-- .tm_pb_section -->
 									<div class="tm_pb_section  tm_pb_section_1 tm_section_regular tm_section_transparent">
-										<div class="resize_cols_1 row tm_pb_row tm_pb_row_1 tm_pb_row_fullwidth tm_pb_col_padding_reset">
-											<div class="tm_pb_column tm_pb_column_1_2  tm_pb_column_1 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 tm_pb_vertical_alligment_start">
-												<div class="tm_pb_module tm_pb_video  tm_pb_video_0">
-													<img src="./index_files/bitcoins.jpg" style="height: 500px">
-												</div>
-											</div> <!-- .tm_pb_column -->
-											<div class="tm_pb_column tm_pb_column_1_2  tm_pb_column_2 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 tm_pb_vertical_alligment_start">
-												<div class="tm_pb_text tm_pb_module tm_pb_bg_layout_light tm_pb_text_align_left  tm_pb_text_1">
-												<h2>Bitcoin</h2>
-												<p>É uma tecnologia digital que permite reproduzir em pagamentos eletrônicos a eficiência dos pagamento com cédulas descrita acima. Pagamentos com bitcoins são rápidos, baratos e sem intermediários. Além disso, eles podem ser feitos para qualquer pessoa, que esteja em qualquer lugar do planeta, sem limite mínimo ou máximo de valor. 
-												</p>
-											</div> <!-- .tm_pb_text -->
-											<hr class="tm_pb_module tm_pb_space tm_pb_divider_0"><div class="tm_pb_button_module_wrapper tm_pb_module">
-				<a class="tm_pb_button tm_pb_custom_button_icon  tm_pb_button_1 tm_pb_module tm_pb_bg_layout_light tm_pb_icon_right" href="http://ld-wp.template-help.com/wordpress_64076/#" data-icon="">Sobre bitcoin</a>
-			</div>
-			</div> <!-- .tm_pb_column -->
-						
+										
 				</div> <!-- .tm_pb_row -->
-			
 				
-			
-				<div class=" row tm_pb_row tm_pb_row_3 tm_pb_row_fullwidth">
-					
-					<div class="tm_pb_column tm_pb_column_4_4  tm_pb_column_4 col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 tm_pb_vertical_alligment_start">
-				
-				<div class="tm_pb_text tm_pb_module tm_pb_bg_layout_light tm_pb_text_align_left  tm_pb_text_2">
-				
-<h2>A Proven Expertise</h2>
-<p>Starting in 1971, our company and all of our founders and employees have always been instrumental in helping American businesses develop and prosper. All of this was achieved using our extensive expertise in running businesses of all sizes and scales. 
-			</p></div> <!-- .tm_pb_text --><hr class="tm_pb_module tm_pb_space tm_pb_divider_1"><div class="tm_pb_button_module_wrapper tm_pb_module">
-				<a class="tm_pb_button tm_pb_custom_button_icon  tm_pb_button_2 tm_pb_module tm_pb_bg_layout_light tm_pb_icon_right" href="./bitcoin.html" data-icon="">About</a>
-			</div>
-			</div> <!-- .tm_pb_column -->
-						
-				</div> <!-- .tm_pb_row -->
-			
-					
-				
-			</div> <!-- .tm_pb_section -->
-			<div class="tm_pb_section invert tm_pb_section_2 tm_pb_with_background tm_section_regular tm_section_transparent">
-				<div class="container">
-					<div class=" row tm_pb_row tm_pb_row_4">
-						<div class="tm_pb_column tm_pb_column_4_4  tm_pb_column_5 col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 tm_pb_vertical_alligment_start">
-							<div class="tm_pb_text tm_pb_module tm_pb_bg_layout_light tm_pb_text_align_center  tm_pb_text_3">
-								<h2>Nossa Empresa</h2>
-							</div> <!-- .tm_pb_text -->
-							<hr class="tm_pb_module tm_pb_space tm_pb_divider_2">
-								<div class="tm_pb_cherry_services tm_pb_cherry_services_0">
-									<div class="services-container">
-										<div class="cherry-services services-wrap template-media-icon" data-atts="{&quot;limit&quot;:6,&quot;orderby&quot;:&quot;date&quot;,&quot;order&quot;:&quot;DESC&quot;,&quot;category&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;more&quot;:true,&quot;more_text&quot;:&quot;All services&quot;,&quot;more_url&quot;:&quot;&quot;,&quot;ajax_more&quot;:false,&quot;show_title&quot;:true,&quot;show_media&quot;:true,&quot;show_content&quot;:false,&quot;show_item_more&quot;:true,&quot;item_more_text&quot;:&quot;&quot;,&quot;show_filters&quot;:false,&quot;use_space&quot;:true,&quot;use_rows_space&quot;:true,&quot;size&quot;:&quot;thumbnail&quot;,&quot;echo&quot;:false,&quot;title&quot;:&quot;&quot;,&quot;excerpt_length&quot;:&quot;25&quot;,&quot;wrap_class&quot;:&quot;services-wrap&quot;,&quot;col_xs&quot;:1,&quot;col_sm&quot;:1,&quot;col_md&quot;:3,&quot;col_xl&quot;:3,&quot;before_title&quot;:&quot;&lt;h2&gt;&quot;,&quot;after_title&quot;:&quot;&lt;\/h2&gt;&quot;,&quot;pager&quot;:false,&quot;paged&quot;:1,&quot;template&quot;:&quot;media-icon.tmpl&quot;,&quot;item_class&quot;:&quot; services-item&quot;,&quot;container&quot;:&quot;&lt;div class=\&quot;services-listing cherry-services-row\&quot;&gt;%s&lt;\/div&gt;&quot;}" data-pages="1" data-page="1" data-cat="">
-											<div class="services-listing cherry-services-row">
-												<div id="services-778" class=" services-item item-1 clearfix odd col-xs-12 col-sm-12 col-md-4 col-xl-4">
-													<div class="icon-block">
-														<div class="icon_wrap">
-															<div class="services-macros">
-																<div class="service-icon">
-																	<i class="linearicon linearicon-bag-dollar"></i>
-																</div>
-															</div>
-														</div>
-													</div>
-													<div class="content-block">
-														<div class="title_wrap">
-															<div class="services-macros">
-															<a>Missão</a>
-														</div>
-													</div>
-												</div>
-											</div><!--/.services-item-->
-											<div id="services-777" class=" services-item item-2 clearfix even col-xs-12 col-sm-12 col-md-4 col-xl-4">
-												<div class="icon-block">
-													<div class="icon_wrap">
-														<div class="services-macros">
-															<div class="service-icon">
-																<i class="linearicon linearicon-news"></i>
-															</div>
-														</div>
-													</div>
-												</div>
-												<div class="content-block">
-													<div class="title_wrap">
-														<div class="services-macros">
-															<a>Visão</a>
-														</div>
-													</div>
-												</div>
-											</div><!--/.services-item-->
-											<div id="services-776" class=" services-item item-3 clearfix odd col-xs-12 col-sm-12 col-md-4 col-xl-4">
-												<div class="icon-block">
-													<div class="icon_wrap">
-														<div class="services-macros">
-															<div class="service-icon">
-																<i class="linearicon linearicon-chart-growth"></i>
-															</div>
-														</div>
-													</div>
-												</div>
-												<div class="content-block">
-													<div class="title_wrap">
-														<div class="services-macros">
-															<a>Valor</a>
-														</div>
-													</div>
-												</div>
-											</div><!--/.services-item-->
-<div id="services-775" class=" services-item item-4 clearfix even col-xs-12 col-sm-12 col-md-4 col-xl-4"><div class="icon-block">
-	<div class="icon_wrap"><div class="services-macros"><div class="service-icon"><i class="linearicon linearicon-folder-search"></i></div></div></div>
-</div>
-<div class="content-block">
-	<div class="title_wrap"><div class="services-macros"><a href="http://ld-wp.template-help.com/wordpress_64076/cherry-services/market-research/">Market research</a></div></div>
-	
-</div></div><!--/.services-item--><div id="services-774" class=" services-item item-5 clearfix odd col-xs-12 col-sm-12 col-md-4 col-xl-4"><div class="icon-block">
-	<div class="icon_wrap"><div class="services-macros"><div class="service-icon"><i class="linearicon linearicon-briefcase"></i></div></div></div>
-</div>
-<div class="content-block">
-	<div class="title_wrap"><div class="services-macros"><a href="http://ld-wp.template-help.com/wordpress_64076/cherry-services/conflict-management/">Conflict management</a></div></div>
-	
-</div></div><!--/.services-item--><div id="services-31" class=" services-item item-6 clearfix even col-xs-12 col-sm-12 col-md-4 col-xl-4"><div class="icon-block">
-	<div class="icon_wrap"><div class="services-macros"><div class="service-icon"><i class="linearicon linearicon-papers"></i></div></div></div>
-</div>
-<div class="content-block">
-	<div class="title_wrap"><div class="services-macros"><a href="http://ld-wp.template-help.com/wordpress_64076/cherry-services/mergers-acquisitions/">Mergers &amp; Acquisitions</a></div></div>
-	
-</div></div><!--/.services-item--></div></div><div class="services-more-btn"><a href="http://ld-wp.template-help.com/wordpress_64076/" class="btn btn-primary ">All services</a></div></div></div><!-- .tm_pb_cherry_services -->
-			</div> <!-- .tm_pb_column -->
-						
-				</div> <!-- .tm_pb_row -->
-			</div>
-					
-				
-			</div> <!-- .tm_pb_section -->
-			<div class="tm_pb_section tm_pb_section_parallax invert tm_pb_section_4 tm_pb_with_background tm_section_regular tm_section_transparent">
+					<div class="tm_pb_section tm_pb_section_parallax invert tm_pb_section_4 tm_pb_with_background tm_section_regular tm_section_transparent">
+						<div class="tm_parallax_bg" style="background-image: url(&quot;http://ld-wp.template-help.com/wordpress_64076/wp-content/uploads/2016/11/img7.jpg&quot;); height: 687.4px; transform: translate(0px, -499.697px);">
+						</div>
+						<div class="row tm_pb_row tm_pb_row_6 tm_pb_row_fullwidth">
+							<div class="tm_pb_column tm_pb_column_1_2  tm_pb_column_7 col-xs-12 col-sm-10 col-md-6 col-lg-offset-1 col-lg-10 col-xl-6 tm_pb_vertical_alligment_start" >
+								<div class="tm_pb_text tm_pb_module tm_pb_bg_layout_light tm_pb_text_align_left  tm_pb_text_4" style="margin-left: -80px;">
+									<h2 style="color: #1f0165; margin-top: -30px; margin-bottom: 60px; text-align: center;" >	"Acho que aqueles que tiverem bitcoin vão ser os futuros bilionários"
+									</h2>
+									<br>
+									<h4 style="color: #1f0165; margin-top: -30px; margin-bottom: 60px; text-align: right;" >
+										-Sitio, Augusto
+									</h4>
+								</div>
+							</div> 
+						</div> 
+						<div class="tm_pb_section tm_pb_section_parallax invert tm_pb_section_4 tm_pb_with_background tm_section_regular tm_section_transparent">
 				<div class="tm_parallax_bg" style="background-image: url(&quot;http://ld-wp.template-help.com/wordpress_64076/wp-content/uploads/2016/11/img7.jpg&quot;); height: 687.4px; transform: translate(0px, -499.697px);"></div>
 				
 				
 						
 				<div class=" row tm_pb_row tm_pb_row_6 tm_pb_row_fullwidth">
 					
-					<div class="tm_pb_column tm_pb_column_1_2  tm_pb_column_7 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 tm_pb_vertical_alligment_start">
-				
-				<div class="tm_pb_text tm_pb_module tm_pb_bg_layout_light tm_pb_text_align_left  tm_pb_text_4" background-clor: "black">
-				
-<h2>Best Financial Experts</h2>
-<p>With over 100 financial consultants working at our office in Atlanta, we can always be sure that however complex or big our new task is – we will be able to crack it! 
-			</p></div> <!-- .tm_pb_text --><hr class="tm_pb_module tm_pb_space tm_pb_divider_3"><div class="tm_pb_button_module_wrapper tm_pb_module">
-				<a class="tm_pb_button tm_pb_custom_button_icon  tm_pb_button_3 tm_pb_module tm_pb_bg_layout_light tm_pb_icon_right" href="http://ld-wp.template-help.com/wordpress_64076/#" data-icon="">About</a>
-			</div>
-			</div> <!-- .tm_pb_column --><div class="tm_pb_column tm_pb_column_1_2  tm_pb_column_8 tm_pb_column_empty col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 tm_pb_vertical_alligment_start">
-				
-				
-			</div> <!-- .tm_pb_column -->
+					<div class="tm_pb_column tm_pb_column_1_2  tm_pb_column_7 col-xs-4 col-sm-12 col-md-4 col-lg-8 col-xl-6 tm_pb_vertical_alligment_start">
+					<h2 style="color: #1f0165; ">
+						Augusto Sitio
+					</h2>
+				<div class="tm_pb_text tm_pb_module tm_pb_bg_layout_light tm_pb_text_4" background-clor: "black">
+					<p style="color: #616161; " >
+						Na entrevista específica, entrevistamos o Augusto Sitio, economista,  autor do e-book "Meu Bitcoin Minha Vida" e palestrante sobre investimento em cripto moedas. O entrevistado mencionou que começou a procurar sobre bitcoin assim como a maioria das pessoas, por curiosidade e visando uma rentabilidade do dinheiro investido.
+						<br>
+					 	Quando perguntado quais as principais dificuldades encontradas, Sitio cita o conhecimento. Por ser um outro mercado, bem volátil, é difícil entender como funciona sua cotação de preço e as variáveis incluídas, por isso qualquer queda da moeda pode ser chocante para o investidor, entretanto por ser um mercado promissor o conselho dado por Sitio é que não se deve vender a moeda, e como papel de investidor deve-se estar atento ao mercado por meio de notícias, a fim de tirar quaisquer dúvidas existentes
+					 	<br>
 						
-				</div> <!-- .tm_pb_row -->
+					</p>
+				</div> <!-- .tm_pb_text -->
+			</div> <!-- .tm_pb_column -->
+			<div class="col-lg-4">
+			<img src="https://www.blockchainbrasil.org/wp-content/uploads/2017/08/bitcoin_minha_vida.png" alt="Capa do e-book de Sitio" style="height: 650px">
+			</div>
+						
+		</div> <!-- .tm_pb_row -->
 			
-				<div class=" row tm_pb_row tm_pb_row_7 tm_pb_row_fullwidth">
-					
-					<div class="tm_pb_column tm_pb_column_4_4  tm_pb_column_9 col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 tm_pb_vertical_alligment_start">
+						
+				</div> <!-- .tm_pb_row -->
+						<div class="tm_pb_section invert tm_pb_section_7 tm_pb_with_background tm_section_regular tm_section_transparent" style="margin-top: 60px;">
+							<div class="container">
+								<div class="tm_pb_text tm_pb_module tm_pb_bg_layout_light tm_pb_text_align_center  tm_pb_text_4">
+									<h2 style="color: #1f0165; margin-top: -30px; margin-bottom: 60px; text-align: center;">Por que? </h2>
+								</div>
+								<div class="tm_pb_text tm_pb_module tm_pb_bg_layout_light tm_pb_text_align_center  tm_pb_text_4" background-clor:="" "black"="">
+									<p style="color: #1f0165;">
+										A principal característica que gera valor ao bitcoin é sua escassez. Existem hoje 16 milhões de moedas em circulação no mercado, e elas chegarão a um total emitido de 21 milhões em 2033. Assim, a vontade das pessoas de comprar ou vender bitcoins é o que determina seu preço, dado que não é possível alterar a quantidade, produzindo mais, por exemplo.
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
 				
-				<div class="tm_pb_module tm-waypoint tm_pb_image tm_pb_animation_off tm_pb_image_0 tm_always_center_on_mobile tm-animated">
-				<img src="./index_files/img8.jpg" alt="">
+				
+							
+					
+				
+				
+				
+				
+			</div> <!-- .tm_pb_section -->
+
+					
+				
+			</div> <!-- .tm_pb_section -->
 			
-			</div><hr class="tm_pb_module tm_pb_space tm_pb_divider_4">
-			</div> <!-- .tm_pb_column -->
-						
-				</div> <!-- .tm_pb_row -->
-			<div class="container">
-				<div class=" row tm_pb_row tm_pb_row_8">
+					</div> <!-- .tm_pb_row -->
 					
-					<div class="tm_pb_column tm_pb_column_4_4  tm_pb_column_10 col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 tm_pb_vertical_alligment_start">
-				
-				<div class="tm_pb_text tm_pb_module tm_pb_bg_layout_light tm_pb_text_align_left  tm_pb_text_5 >
-				
-<h2>Best Financial Experts</h2>
-<p>With over 100 financial consultants working at our office in Atlanta, we can always be sure that however complex or big our new task is – we will be able to crack it! 
-			</p></div> <!-- .tm_pb_text --><hr class="tm_pb_module tm_pb_space tm_pb_divider_5"><div class="tm_pb_button_module_wrapper tm_pb_module">
-				<a class="tm_pb_button tm_pb_custom_button_icon  tm_pb_button_4 tm_pb_module tm_pb_bg_layout_light tm_pb_icon_right" href="" data-icon="">About</a>
-			</div>
-			</div> <!-- .tm_pb_column -->
-						
-				</div> <!-- .tm_pb_row -->
-			</div>
-					
-			<div class="tm_pb_section invert tm_pb_section_8 tm_section_regular tm_section_transparent">
-						
-				<div class=" row tm_pb_row tm_pb_row_11 tm_pb_row_fullwidth">
-					
-					<div class="tm_pb_column tm_pb_column_1_2  tm_pb_column_13 tm_pb_column_empty col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 tm_pb_vertical_alligment_start">
-			</div> <!-- .tm_pb_column --><div class="tm_pb_column tm_pb_column_1_2  tm_pb_column_14 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 tm_pb_vertical_alligment_start">
-				
-				<div class="tm_pb_text tm_pb_module tm_pb_bg_layout_light tm_pb_text_align_left  tm_pb_text_8">
-				
-<h2>Entre em contato!</h2>
-
-			</div> <!-- .tm_pb_text --><hr class="tm_pb_module tm_pb_space tm_pb_divider_8"><div id="tm_pb_contact_form_0" class="tm_pb_contact_form tm_pb_contact_form_0 tm_pb_contact_form_container clearfix tm_pb_module" data-form_unique_num="0"><h2 class="tm_pb_contact_main_title">Responderemos qualquer que seja a sua dúvida</h2>
-
-<form class="tm_pb_contact_form clearfix" method="post" action="http://ld-wp.template-help.com/wordpress_64076/">
-	<div class="tm-pb-contact-message"></div>
-	<div class="row">
-		 <div class="tm_pb_contact_field col-md-6  tm_pb_contact_field_0">
-		<label for="tm_pb_contact_first name_1" class="tm_pb_contact_form_label">Nome</label>
-		<input type="text" id="tm_pb_contact_first name_1" class="tm_pb_contact_form_input" value="" name="tm_pb_contact_first name_1" data-required_mark="required" data-field_type="input" data-original_id="first name" data-original_title="First Name"></div>
-<div class="tm_pb_contact_field col-md-6  tm_pb_contact_field_1">
-		<label for="tm_pb_contact_last name_1" class="tm_pb_contact_form_label">Sobrenome</label>
-		<input type="text" id="tm_pb_contact_last name_1" class="tm_pb_contact_form_input" value="" name="tm_pb_contact_last name_1" data-required_mark="not_required" data-field_type="input" data-original_id="last name" data-original_title="Last Name"></div>
-
-<div class="tm_pb_contact_field col-md-6  tm_pb_contact_field_3">
-		<label for="tm_pb_contact_email_1" class="tm_pb_contact_form_label">Email</label>
-		<input type="email" id="tm_pb_contact_email_1" class="tm_pb_contact_form_input" value="" name="tm_pb_contact_email_1" data-required_mark="required" data-field_type="email" data-original_id="email" data-original_title="Email Address"></div>
-<div class="tm_pb_contact_field col-md-12  tm_pb_contact_field_4">
-		<label for="tm_pb_contact_message_1" class="tm_pb_contact_form_label">Mensagem</label>
-		<textarea name="tm_pb_contact_message_1" id="tm_pb_contact_message_1" class="tm_pb_contact_message tm_pb_contact_form_input"  data-required_mark="required" data-field_type="text" data-original_id="message" data-original_title="Message"></textarea></div>
- 	</div>
-	<input type="hidden" value="tm_contact_proccess" name="tm_pb_contactform_submit_0">
-	<input type="text" value="" name="tm_pb_contactform_validate_0" class="tm_pb_contactform_validate_field">
-	<div class="tm_contact_bottom_container">
-				<button type="submit" class="tm_pb_contact_submit tm_pb_button">Enviar</button>	</div>
-	<input type="hidden" id="_wpnonce-tm-pb-contact-form-submitted" name="_wpnonce-tm-pb-contact-form-submitted" value="cf572fa60c"><input type="hidden" name="_wp_http_referer" value="/wordpress_64076/"></form></div><!-- .tm_pb_contact_form -->
-			</div> <!-- .tm_pb_column -->
 						
 				</div> <!-- .tm_pb_row -->
 			
@@ -510,7 +365,7 @@ footer.site-footer { background-image: url( http://ld-wp.template-help.com/wordp
 .tm_pb_builder #tm_builder_outer_content .tm_pb_text_0 { margin-bottom: 51px !important; }
 .tm_pb_builder #tm_builder_outer_content .tm_pb_column_1 { order: 1; }
 .tm_pb_builder #tm_builder_outer_content .tm_pb_column_2 { background-image:url(http://ld-wp.template-help.com/wordpress_64076/wp-content/uploads/2016/11/img4.jpg); padding-top:102px; padding-right:19%; padding-bottom:60px; padding-left:116px; order: 2; }
-.tm_pb_builder #tm_builder_outer_content .tm_pb_section_2 { background-image:url(http://ld-wp.template-help.com/wordpress_64076/wp-content/uploads/2016/11/img6.jpg); padding-top: 95px; padding-bottom: 120px; }
+.tm_pb_builder #tm_builder_outer_content .tm_pb_section_2 { background-image:url(index_files/comocomprar.jpg); opacity: 0.8; padding-top: 95px; padding-bottom: 120px; }
 .tm_pb_builder #tm_builder_outer_content .tm_pb_column_5 { order: 1; }
 .tm_pb_builder #tm_builder_outer_content .tm_pb_cta_0.tm_pb_promo p { line-height: 1.4em; }
 .tm_pb_builder #tm_builder_outer_content .tm_pb_cta_0.tm_pb_promo { font-size: 26px; line-height: 1.4em; }
