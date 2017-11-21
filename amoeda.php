@@ -153,15 +153,13 @@ footer.site-footer { background-image: url( http://ld-wp.template-help.com/wordp
 					<a href="./index.php">Sobre a empresa</a>
 				</li>
 				<li id="menu-item-239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239">
-					<a href="./cliente.<?php  ?>">Clientes</a>
+					<a href="./cliente.php>">Clientes</a>
 				</li>
 				<li id="menu-item-239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239">
-					<a href="">Criptomoedas</a>
+					<a href="./amoeda.php">Criptomoedas</a>
 				</li>
-				<li id="menu-item-239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239">
-					<a href="">Serviços</a>
-				</li>
-		</div>
+
+						</div>
 	</div><!-- .header-container -->
 </header><!-- #masthead -->
 	<div id="content" class="site-content">
@@ -182,7 +180,7 @@ footer.site-footer { background-image: url( http://ld-wp.template-help.com/wordp
 													<div class="tm_pb_column tm_pb_column_4_4  tm_pb_column_0 col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 tm_pb_vertical_alligment_start">
 														<div class="tm_pb_text tm_pb_module tm_pb_bg_layout_light tm_pb_text_align_center  tm_pb_text_0">
 															<h1>Bitcoin</h1>
-															<h3>Bitcoin é uma moeda digital, cuja técnicas de criptografia são utilizadas para regular a criação de novas unidades da moeda e verificação de transações sendo este um sistema independente de um banco central. </h3>
+															<h3 ><i>Bitcoin é uma moeda digital, cuja técnicas de criptografia são utilizadas para regular a criação de novas unidades da moeda e verificação de transações sendo este um sistema independente de um banco central. </i></h3>
 														</div> <!-- .tm_pb_text -->
 													</div> <!-- .tm_pb_column -->
 												</div> <!-- .tm_pb_row -->
@@ -201,8 +199,8 @@ footer.site-footer { background-image: url( http://ld-wp.template-help.com/wordp
 						</div>
 						
 						<div class="tm_pb_text tm_pb_module tm_pb_bg_layout_light tm_pb_text_align_center  tm_pb_text_4" background-clor:="" "black"="">
-							<p style="color: #1f0165;">
-								A moeda foi criada em 2009, e lançada em Janeiro, por uma pessoa desconhecida que utilizava o nome de Satoshi Nakamoto. O conceito e modo operacional foi descrito em seu documento “Bitcoin: a peer-to-peer electronic cash system.”, e este explica que é uma moeda virtual descentralizada,com o armazenamento por quase todos os computadores dos usuários e seus dados público na internet.
+							<p style="color: #616161;">
+								A moeda foi criada em 2009 e lançada em Janeiro, por uma pessoa desconhecida que utilizava o nome de Satoshi Nakamoto. O conceito e modo operacional foi descrito em seu documento “Bitcoin: a peer-to-peer electronic cash system.”, e este explica que é uma moeda virtual descentralizada,com o armazenamento por quase todos os computadores dos usuários e seus dados público na internet.
 							</p>
 						</div>
 					</div>
@@ -348,7 +346,7 @@ footer.site-footer { background-image: url( http://ld-wp.template-help.com/wordp
 										<input type="hidden" value="tm_contact_proccess" name="tm_pb_contactform_submit_0">
 										<input type="text" value="" name="tm_pb_contactform_validate_0" class="tm_pb_contactform_validate_field">
 										<div class="tm_contact_bottom_container" style="margin-top: 20px;">
-											<button type="submit" class="tm_pb_contact_submit tm_pb_button">Enviar</button>	
+											<button type="submit" class="tm_pb_contact_submit tm_pb_button">Simular</button>	
 										</div>
 										<input type="hidden" id="_wpnonce-tm-pb-contact-form-submitted" name="_wpnonce-tm-pb-contact-form-submitted" value="cf572fa60c">
 										<input type="hidden" name="_wp_http_referer" value="/wordpress_64076/">
@@ -389,11 +387,11 @@ footer.site-footer { background-image: url( http://ld-wp.template-help.com/wordp
 		
 <div class="footer-area-wrap ">
 	<div class="container">
-		<section id="footer-area" class="footer-area widget-area footer-area--3-cols row"><aside id="acumenship_widget_subscribe_follow-2" class="col-xs-12 col-sm-12 col-md-4 col-lg-4  widget widget-subscribe"><div class="subscribe-follow__wrap"><div class="follow-block"><h3 class="widget-title">Siga nas redes sociais</h3><div class="social-list social-list--widget social-list--icon"><ul id="social-list-1" class="social-list__items inline-list"><li id="menu-item-167" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-167"><a href="https://www.facebook.com/TemplateMonster/"><span class="screen-reader-text">Facebook</span></a></li>
+		<section id="footer-area" class="footer-area widget-area footer-area--3-cols row"><aside id="acumenship_widget_subscribe_follow-2" class="col-xs-12 col-sm-12 col-md-4 col-lg-6  widget widget-subscribe"><div class="subscribe-follow__wrap"><div class="follow-block"><h3 class="widget-title">Siga nas redes sociais</h3><div class="social-list social-list--widget social-list--icon"><ul id="social-list-1" class="social-list__items inline-list"><li id="menu-item-167" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-167"><a href="https://www.facebook.com/TemplateMonster/"><span class="screen-reader-text">Facebook</span></a></li>
 <li id="menu-item-168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168"><a href="https://twitter.com/TemplateMonster"><span class="screen-reader-text">Twitter</span></a></li>
 <li id="menu-item-169" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-169"><a href="https://plus.google.com/+TemplateMonster"><span class="screen-reader-text">Google Plus</span></a></li>
 </ul></div></div>
-</div></aside><aside id="acumenship_widget_subscribe_follow-3" class="col-xs-12 col-sm-12 col-md-4 col-lg-4  widget widget-subscribe"><div class="subscribe-follow__wrap"><div class="subscribe-block">
+</div></aside><aside id="acumenship_widget_subscribe_follow-3" class="col-xs-12 col-sm-12 col-md-4 col-lg-6  widget widget-subscribe"><div class="subscribe-follow__wrap"><div class="subscribe-block">
 
 	<h3 class="widget-title">Se inscreva para Updates</h3>	
 	<form method="POST" action="http://ld-wp.template-help.com/wordpress_64076/#" class="subscribe-block__form">

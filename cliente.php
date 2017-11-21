@@ -154,13 +154,10 @@ footer.site-footer { background-image: url( http://ld-wp.template-help.com/wordp
 					<a href="./index.php">Sobre a empresa</a>
 				</li>
 				<li id="menu-item-239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239">
-					<a href="./cliente">Clientes</a>
+					<a href="./cliente.php">Clientes</a>
 				</li>
 				<li id="menu-item-239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239">
-					<a href="">Criptomoedas</a>
-				</li>
-				<li id="menu-item-239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239">
-					<a href="">Serviços</a>
+					<a href="./amoeda.php">Criptomoedas</a>
 				</li>
 		</div>
 	</div><!-- .header-container -->
@@ -183,7 +180,7 @@ footer.site-footer { background-image: url( http://ld-wp.template-help.com/wordp
 													<div class="tm_pb_column tm_pb_column_4_4  tm_pb_column_0 col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 tm_pb_vertical_alligment_start">
 														<div class="tm_pb_text tm_pb_module tm_pb_bg_layout_light tm_pb_text_align_center  tm_pb_text_0">
 															<h1>Clientes</h1>
-															<h3>Bitcoin é utilizado ao redor do mundo! conheça aqui um pouco da experiência da moeda. </h3>
+															<h3><i>Bitcoin é utilizado ao redor do mundo! conheça aqui um pouco da experiência da moeda. </i></h3>
 														</div> <!-- .tm_pb_text -->
 													</div> <!-- .tm_pb_column -->
 												</div> <!-- .tm_pb_row -->
@@ -199,7 +196,7 @@ footer.site-footer { background-image: url( http://ld-wp.template-help.com/wordp
 						<div class="row tm_pb_row tm_pb_row_6 tm_pb_row_fullwidth">
 							<div class="tm_pb_column tm_pb_column_1_2  tm_pb_column_7 col-xs-12 col-sm-10 col-md-6 col-lg-offset-1 col-lg-10 col-xl-6 tm_pb_vertical_alligment_start" >
 								<div class="tm_pb_text tm_pb_module tm_pb_bg_layout_light tm_pb_text_align_left  tm_pb_text_4" style="margin-left: -80px;">
-									<h2 style="color: #1f0165; margin-top: -30px; margin-bottom: 60px; text-align: center;" >	"Acho que aqueles que tiverem bitcoin vão ser os futuros bilionários"
+									<h2 style="color: #1f0165; margin-top: -30px; margin-bottom: 60px; text-align: center; align-items: middle;" >	"Acho que aqueles que tiverem bitcoin vão ser os futuros bilionários"
 									</h2>
 									<br>
 									<h4 style="color: #1f0165; margin-top: -30px; margin-bottom: 60px; text-align: right;" >
@@ -243,7 +240,7 @@ footer.site-footer { background-image: url( http://ld-wp.template-help.com/wordp
 									<h2 style="color: #1f0165; margin-top: -30px; margin-bottom: 60px; text-align: center;">Por que? </h2>
 								</div>
 								<div class="tm_pb_text tm_pb_module tm_pb_bg_layout_light tm_pb_text_align_center  tm_pb_text_4" background-clor:="" "black"="">
-									<p style="color: #1f0165;">
+									<p style="color: #616161;">
 										A principal característica que gera valor ao bitcoin é sua escassez. Existem hoje 16 milhões de moedas em circulação no mercado, e elas chegarão a um total emitido de 21 milhões em 2033. Assim, a vontade das pessoas de comprar ou vender bitcoins é o que determina seu preço, dado que não é possível alterar a quantidade, produzindo mais, por exemplo.
 									</p>
 								</div>
@@ -300,11 +297,11 @@ footer.site-footer { background-image: url( http://ld-wp.template-help.com/wordp
 		
 <div class="footer-area-wrap ">
 	<div class="container">
-		<section id="footer-area" class="footer-area widget-area footer-area--3-cols row"><aside id="acumenship_widget_subscribe_follow-2" class="col-xs-12 col-sm-12 col-md-4 col-lg-4  widget widget-subscribe"><div class="subscribe-follow__wrap"><div class="follow-block"><h3 class="widget-title">Siga nas redes sociais</h3><div class="social-list social-list--widget social-list--icon"><ul id="social-list-1" class="social-list__items inline-list"><li id="menu-item-167" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-167"><a href="https://www.facebook.com/TemplateMonster/"><span class="screen-reader-text">Facebook</span></a></li>
+		<section id="footer-area" class="footer-area widget-area footer-area--3-cols row"><aside id="acumenship_widget_subscribe_follow-2" class="col-xs-12 col-sm-12 col-md-4 col-lg-6  widget widget-subscribe"><div class="subscribe-follow__wrap"><div class="follow-block"><h3 class="widget-title">Siga nas redes sociais</h3><div class="social-list social-list--widget social-list--icon"><ul id="social-list-1" class="social-list__items inline-list"><li id="menu-item-167" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-167"><a href="https://www.facebook.com/TemplateMonster/"><span class="screen-reader-text">Facebook</span></a></li>
 <li id="menu-item-168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168"><a href="https://twitter.com/TemplateMonster"><span class="screen-reader-text">Twitter</span></a></li>
 <li id="menu-item-169" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-169"><a href="https://plus.google.com/+TemplateMonster"><span class="screen-reader-text">Google Plus</span></a></li>
 </ul></div></div>
-</div></aside><aside id="acumenship_widget_subscribe_follow-3" class="col-xs-12 col-sm-12 col-md-4 col-lg-4  widget widget-subscribe"><div class="subscribe-follow__wrap"><div class="subscribe-block">
+</div></aside><aside id="acumenship_widget_subscribe_follow-3" class="col-xs-12 col-sm-12 col-md-4 col-lg-6  widget widget-subscribe"><div class="subscribe-follow__wrap"><div class="subscribe-block">
 
 	<h3 class="widget-title">Se inscreva para Updates</h3>	
 	<form method="POST" action="http://ld-wp.template-help.com/wordpress_64076/#" class="subscribe-block__form">

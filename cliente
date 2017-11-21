@@ -153,13 +153,10 @@ footer.site-footer { background-image: url( http://ld-wp.template-help.com/wordp
 					<a href="./index.php">Sobre a empresa</a>
 				</li>
 				<li id="menu-item-239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239">
-					<a href="./cliente">Clientes</a>
+					<a href="./cliente.php">Clientes</a>
 				</li>
 				<li id="menu-item-239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239">
-					<a href="">Criptomoedas</a>
-				</li>
-				<li id="menu-item-239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239">
-					<a href="">Serviços</a>
+					<a href="./amoeda.php">Criptomoedas</a>
 				</li>
 		</div>
 	</div><!-- .header-container -->
@@ -182,7 +179,7 @@ footer.site-footer { background-image: url( http://ld-wp.template-help.com/wordp
 													<div class="tm_pb_column tm_pb_column_4_4  tm_pb_column_0 col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 tm_pb_vertical_alligment_start">
 														<div class="tm_pb_text tm_pb_module tm_pb_bg_layout_light tm_pb_text_align_center  tm_pb_text_0">
 															<h1>Clientes</h1>
-															<h3>Bitcoin foi e é utilizado por várias pessoas no mundo, conheça algumas delas... </h3>
+															<h3><i>Bitcoin foi e é utilizado por várias pessoas no mundo, conheça algumas delas... </i></h3>
 														</div> <!-- .tm_pb_text -->
 													</div> <!-- .tm_pb_column -->
 												</div> <!-- .tm_pb_row -->

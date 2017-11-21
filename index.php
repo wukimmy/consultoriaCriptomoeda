@@ -158,9 +158,6 @@ footer.site-footer { background-image: url( http://ld-wp.template-help.com/wordp
 				<li id="menu-item-239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239">
 					<a href="./amoeda.php">Criptomoedas</a>
 				</li>
-				<li id="menu-item-239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239">
-					<a href="">Serviços</a>
-				</li>
 		</div>
 	</div><!-- .header-container -->
 </header><!-- #masthead -->
@@ -203,7 +200,7 @@ footer.site-footer { background-image: url( http://ld-wp.template-help.com/wordp
 												</p>
 											</div> <!-- .tm_pb_text -->
 											<hr class="tm_pb_module tm_pb_space tm_pb_divider_0"><div class="tm_pb_button_module_wrapper tm_pb_module">
-				<a class="tm_pb_button tm_pb_custom_button_icon  tm_pb_button_1 tm_pb_module tm_pb_bg_layout_light tm_pb_icon_right" href="http://ld-wp.template-help.com/wordpress_64076/#" data-icon="">Saiba mais</a>
+				<a class="tm_pb_button tm_pb_custom_button_icon  tm_pb_button_1 tm_pb_module tm_pb_bg_layout_light tm_pb_icon_right" href="" data-icon="">Saiba mais</a>
 			</div>
 			</div> <!-- .tm_pb_column -->
 						
@@ -367,7 +364,7 @@ footer.site-footer { background-image: url( http://ld-wp.template-help.com/wordp
 					</p>
 				</div> <!-- .tm_pb_text -->
 				<hr class="tm_pb_module tm_pb_space tm_pb_divider_5"><div class="tm_pb_button_module_wrapper tm_pb_module">
-				<a class="tm_pb_button tm_pb_custom_button_icon  tm_pb_button_4 tm_pb_module tm_pb_bg_layout_light tm_pb_icon_right" href="" data-icon="">Saiba mais</a>
+				<a class="tm_pb_button tm_pb_custom_button_icon  tm_pb_button_4 tm_pb_module tm_pb_bg_layout_light tm_pb_icon_right" href="/">Saiba mais</a>
 			</div>
 			</div> <!-- .tm_pb_column -->
 						
@@ -444,11 +441,11 @@ footer.site-footer { background-image: url( http://ld-wp.template-help.com/wordp
 		
 <div class="footer-area-wrap ">
 	<div class="container">
-		<section id="footer-area" class="footer-area widget-area footer-area--3-cols row"><aside id="acumenship_widget_subscribe_follow-2" class="col-xs-12 col-sm-12 col-md-4 col-lg-4  widget widget-subscribe"><div class="subscribe-follow__wrap"><div class="follow-block"><h3 class="widget-title">Siga nas redes sociais</h3><div class="social-list social-list--widget social-list--icon"><ul id="social-list-1" class="social-list__items inline-list"><li id="menu-item-167" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-167"><a href="https://www.facebook.com/TemplateMonster/"><span class="screen-reader-text">Facebook</span></a></li>
+		<section id="footer-area" class="footer-area widget-area footer-area--3-cols row"><aside id="acumenship_widget_subscribe_follow-2" class="col-xs-12 col-sm-12 col-md-4 col-lg-6  widget widget-subscribe"><div class="subscribe-follow__wrap"><div class="follow-block"><h3 class="widget-title">Siga nas redes sociais</h3><div class="social-list social-list--widget social-list--icon"><ul id="social-list-1" class="social-list__items inline-list"><li id="menu-item-167" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-167"><a href="https://www.facebook.com/TemplateMonster/"><span class="screen-reader-text">Facebook</span></a></li>
 <li id="menu-item-168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168"><a href="https://twitter.com/TemplateMonster"><span class="screen-reader-text">Twitter</span></a></li>
 <li id="menu-item-169" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-169"><a href="https://plus.google.com/+TemplateMonster"><span class="screen-reader-text">Google Plus</span></a></li>
 </ul></div></div>
-</div></aside><aside id="acumenship_widget_subscribe_follow-3" class="col-xs-12 col-sm-12 col-md-4 col-lg-4  widget widget-subscribe"><div class="subscribe-follow__wrap"><div class="subscribe-block">
+</div></aside><aside id="acumenship_widget_subscribe_follow-3" class="col-xs-12 col-sm-12 col-md-4 col-lg-6  widget widget-subscribe"><div class="subscribe-follow__wrap"><div class="subscribe-block">
 
 	<h3 class="widget-title">Se inscreva para Updates</h3>	
 	<form method="POST" action="http://ld-wp.template-help.com/wordpress_64076/#" class="subscribe-block__form">
